@@ -1,6 +1,6 @@
 safe: true
-title: "Capstone Domain: Malware"
+title: "Capstone Domain: Distributed Systems for Financial and Behavioral Data"
 source: .
 destination: _site
-url: "https://afraenkel.github.io"
-baseurl: "/capstone-malware-domain"
+url: "https://rodalbuyeh.github.io"
+baseurl: "/capstone-distributed-domain"

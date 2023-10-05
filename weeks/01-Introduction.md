@@ -5,50 +5,40 @@ permalink: /weeks/01-Introduction/
 doodle: /doodle.png
 ---
 
-# Introduction to Code-Understanding and Malware
+# Introduction to Credit Risk Forecasting
 
 ## Topics
 
 This week's assignments will guide you through the following topics:
-* How graphs can capture/summarize code functionality.
-* How machine learning can identify malware via graphs.
+* Broadly defining credit risk modeling. 
+* Reviewing/introducing frameworks that position us well to scale operations.
+* Begin a deeper dive into feature engineering techniques. 
 
 ## Reading
 
-Please read the following:
-* [Introduction to Malware](https://www.greycampus.com/blog/information-security/introduction-to-malware-definition-attacks-types-and-analysis)
-* Wired's article [Android's Malware Problem](https://www.wired.com/story/android-malware-app-defense-alliance/)
-* [Hindroid](https://www.cse.ust.hk/~yqsong/papers/2017-KDD-HINDROID.pdf)
-  (Read the Introduction)
+Please read or view the following:
+* Journal Article: [An Investigation of Credit Card Default Prediction in Imbalanced Datasets](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9239944s)
+* Video: [Ray: A Framework for Scaling and Distributing Python and ML Applications](https://www.youtube.com/watch?v=LmROEotKhJA)
+* Video: [Dask DataFrame: An Introduction](https://www.youtube.com/watch?v=AT2XtFehFSQ)
+* Skim this Book Chapter: [Feature Engineering and Selection: Chapter 1](http://www.feat.engineering/intro-intro)
 
-## Tasks
+## Tasks 
 
-Find your favorite python file and sketch out how you would train an
-n-gram model on it (or actually try it!). Things you should consider
-are:
-* how would you tokenize it? (what do you consider a word?)
-* what would you consider a sentence or paragraph?
-* What *syntactic* structure would you likely pick up and what would
-  it miss? (What would co-occur with a function definition, for
-  example?).
+Let's review the legacy repository that has been shared with you. 
+Things you should consider: 
+
+* How is this project structured? How is it different from a notebook-based workflow? 
+* What feature engineering and modeling techniques are used? 
+* What would happen if we ran this workflow on the full sample of data? What would we have to change to make that work?
+* Are there opportunities to improve the presentation as indicated? 
   
-If you actually tried this, train it on python projects from github
-repositories. Use your language model to generate code and see how it
-fails to run!
-
-**Note:** Recently, the success of *transformers* in language modeling
-has been capable of understanding computer code surprisingly well, by
-essentially throwing massive amounts of computation power at the
-problem.
 
 ## Weekly Questions
 
-Answer the following questions on Canvas:
+Answer the following questions on Gradescope:
 
-* How is learning computer code different than typical approachs to
-  NLP (e.g. n-gram models)? What would an NLP model fail to learn?
-  Give an example.
-* What are the different ways Malware might attack a mobile device
-  through an application?
-* What are the primary ways of analyzing source code for evidence of Malware?
+* What are the challenges inherent to credit risk modeling? 
+* Why should we modularize and package our code? 
+* How might we scale simple feature engineering? 
+For example, how would we run categorical encoding over hundreds of millions of records?
 
