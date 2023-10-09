@@ -21,10 +21,11 @@ Please read or view the following:
 * Video: [Ray: A Framework for Scaling and Distributing Python and ML Applications](https://www.youtube.com/watch?v=LmROEotKhJA)
 * Video: [Dask DataFrame: An Introduction](https://www.youtube.com/watch?v=AT2XtFehFSQ)
 * Skim this Book Chapter: [Feature Engineering and Selection: Chapter 1](http://www.feat.engineering/intro-intro)
+* Read the [docs](https://www.freddiemac.com/research/datasets/sf-loanlevel-dataset) on the Freddie Mac Single Family Loan-Level Dataset. Also review the [user guide](https://www.freddiemac.com/fmac-resources/research/pdf/user_guide.pdf) (pay special attention to pages 7-18). You should also create an account with them to access the data. 
 
 ## Tasks 
 
-Let's review the legacy repository that has been shared with you. 
+Let's review the [legacy repository](https://github.com/rodalbuyeh/legacy_code) that has been shared with you. 
 Things you should consider: 
 
 * How is this project structured? How is it different from a notebook-based workflow? 
