@@ -80,6 +80,7 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction to Credit Risk Forecasting]({{ "weeks/01-Introduction" | absolute_url }})|
+|2|[Tabular Data: State of the Art]({{ "weeks/02-Tabular-Data" | absolute_url }})|
 
 
 ---
