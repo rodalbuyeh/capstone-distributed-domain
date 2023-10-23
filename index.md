@@ -81,6 +81,7 @@ end of the quarter.
 |--|--|
 |1|[Introduction to Credit Risk Forecasting]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Tabular Data: State of the Art]({{ "weeks/02-Tabular-Data" | absolute_url }})|
+|3-4|[From Spaghetti to Structured: The Essentials of Production Ready Code]({{ "weeks/0304-Spaghetti-Structured" | absolute_url }})|
 
 
 ---
