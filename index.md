@@ -82,13 +82,24 @@ end of the quarter.
 |1|[Introduction to Credit Risk Forecasting]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Tabular Data: State of the Art]({{ "weeks/02-Tabular-Data" | absolute_url }})|
 |3-4|[From Spaghetti to Structured: The Essentials of Production Ready Code]({{ "weeks/0304-Spaghetti-Structured" | absolute_url }})|
+|5-6|[Optimization and Modularization in Machine Learning Pipelines]({{ "weeks/0506-Optimization-Modularization" | absolute_url }})|
 
 
 ---
 
-# Office Hours
+# Teams
 
-Fridays 10-11AM
+Team Scalable: Terin, Zafeer
+* Focus: increase end-to-end runtime performance via libaries, breaking up workloads into DAGs, etc.
+
+Team Pip: Emily, Zaki, Riya, Zhen
+* Focus: build general purpose high performance pip installable tools.
+
+---
+
+# Meetings
+
+Mondays 3-4PM
 
 
 
